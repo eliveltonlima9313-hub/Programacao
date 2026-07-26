@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gif.gif" width="500px" alt="Demonstração da Calculadora">
+</p>
+
 # ☕ Calculadora Avançada de Cafeína (Terminal)
 
 Uma calculadora de cafeína interativa desenvolvida em Python, projetada para rodar no terminal com uma experiência de usuário (UX) imersiva, utilizando pausas de tempo, cores personalizadas via códigos ANSI, estimativa de meia-vida no organismo, guia de emergência para excesso de estimulantes e **blindagem completa contra erros de digitação**.
